@@ -6,7 +6,19 @@ public class Lesson2 {
 
         System.out.println("Переменные и типы данных");
 
-    /*
+        // My example
+        byte age = 16;
+        float biceps = 41.3f;
+        String name = "Vadym";
+        boolean isHappy = true;
+        String gender = "male";
+
+        System.out.println("Age: " + age + "\nYour biceps: " + biceps + "cm" + "\nYour Name: " + name + "\nHappy? " + isHappy + "\nYout gender: " + gender);
+
+    }
+}
+
+/*
    - Целые числа (integer types)
 	byte	- Диапазон чисел от -128 до 127;
 	short	- Диапазон чисел от -32768 до 32767;
@@ -21,16 +33,4 @@ public class Lesson2 {
 	boolean	- Логический тип данных. Может хранить true или false;
 	char	- Тип данных для символов. Один символ в одинарных кавычках, например 'A';
 	String	- Тип данных для текста. Можно хранить слова и предложения в двойных кавычках, например "Hello World!".
-    */
-
-        // My example
-        byte age = 16;
-        float biceps = 41.3f;
-        String name = "Vadym";
-        boolean isHappy = true;
-        String gender = "male";
-
-        System.out.println("Age: " + age + "\nYour biceps: " + biceps + "cm" + "\nYour Name: " + name + "\nHappy? " + isHappy + "\nYout gender: " + gender);
-
-    }
-}
+*/
