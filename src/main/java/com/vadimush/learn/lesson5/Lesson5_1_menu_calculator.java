@@ -2,7 +2,7 @@ package com.vadimush.learn.lesson5;
 
 import java.util.Scanner;
 
-public class Lesson5_1 {
+public class Lesson5_1_menu_calculator {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
