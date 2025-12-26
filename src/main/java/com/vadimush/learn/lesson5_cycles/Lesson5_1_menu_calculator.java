@@ -1,4 +1,4 @@
-package com.vadimush.learn.lesson5;
+package com.vadimush.learn.lesson5_cycles;
 
 import java.util.Scanner;
 

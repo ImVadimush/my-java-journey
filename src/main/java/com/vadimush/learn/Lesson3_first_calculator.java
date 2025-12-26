@@ -3,7 +3,7 @@ package com.vadimush.learn;
 // import Scanner from utils
 import java.util.Scanner;
 
-public class Lesson3 {
+public class Lesson3_first_calculator {
 
     public static void main(String[] args) {
         // Create object and allocate memory

@@ -1,8 +1,8 @@
-package com.vadimush.learn.lesson4;
+package com.vadimush.learn.lesson4_conditionals;
 
 import java.util.Scanner;
 
-public class Lesson4_practice1 {
+public class Lesson4_taks_from_ChaGPT {
 
     public static void main(String[] args) {
         /*

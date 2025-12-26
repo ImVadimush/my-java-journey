@@ -1,8 +1,8 @@
-package com.vadimush.learn.lesson4;
+package com.vadimush.learn.lesson4_conditionals;
 
 import java.util.Scanner;
 
-public class Lesson4_3 {
+public class Lesson4_3_calculator_using_switch {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);

@@ -1,8 +1,8 @@
-package com.vadimush.learn.lesson4;
+package com.vadimush.learn.lesson4_conditionals;
 
 import java.util.Scanner;
 
-public class Lesson4_1 {
+public class Lesson4_1_second_calculator {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);

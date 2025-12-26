@@ -1,10 +1,8 @@
 package com.vadimush.learn;
 
-public class Lesson2 {
+public class Lesson2_data_types {
 
     public static void main(String[] args) {
-
-        System.out.println("Переменные и типы данных");
 
         // My example
         byte age = 16;
