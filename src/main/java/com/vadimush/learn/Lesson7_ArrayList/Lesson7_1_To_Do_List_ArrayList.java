@@ -3,7 +3,7 @@ package com.vadimush.learn.Lesson7_ArrayList;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Lesson7_To_Do_List {
+public class Lesson7_1_To_Do_List_ArrayList {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         ArrayList<String> doList = new ArrayList<>();

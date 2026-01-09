@@ -3,7 +3,7 @@ package com.vadimush.learn.Lesson7_ArrayList;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Lesson7_authemicatorV2 {
+public class Lesson7_2_authemicator {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
